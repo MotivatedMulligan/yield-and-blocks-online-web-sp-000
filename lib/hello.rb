@@ -8,7 +8,7 @@ yield (array[i])
  end
 
 array
-else 
+else
   puts "Hey! No block was given!"
 end
 end
